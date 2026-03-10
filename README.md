@@ -1,4 +1,4 @@
-# cxv.dev-comments
+# cxv.dev omments
 
 This repository exists solely as a backend for [giscus](https://giscus.app) comments on [cxv.dev](https://cxv.dev).
 
